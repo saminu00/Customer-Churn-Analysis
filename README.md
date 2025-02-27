@@ -58,5 +58,5 @@ I used a **Telco Customer Churn** dataset containing **7,032 records** and **21 
 
 
 ##  **Conclusion**  
-This project highlights how **pandas** alone can be a powerful tool for data analysis. By analyzing customer churn, I demonstrated my ability to clean data, uncover insights, and provide actionable business recommendations—all using **Python**.  
+This project highlights how **pandas** alone can be a powerful tool for data analysis. By analyzing customer churn, I demonstrated my ability to clean data, uncover insights, and provide actionable business recommendations all using **Python**.  
 
