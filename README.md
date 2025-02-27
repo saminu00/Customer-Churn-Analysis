@@ -19,7 +19,7 @@ Customer churn is a major challenge for subscription-based businesses. A high ch
 
 ## **Data & Methodology**  
 
-### 📂 **Dataset**  
+###  **Dataset**  
 I used a **Telco Customer Churn** dataset containing **7,032 records** and **21 columns**, including customer demographics, subscription details, and churn status.
 
 ###  **Steps Performed**  
@@ -57,6 +57,6 @@ I used a **Telco Customer Churn** dataset containing **7,032 records** and **21 
 - **Jupyter Notebook**  
 
 
-## 📌 **Conclusion**  
+##  **Conclusion**  
 This project highlights how **pandas** alone can be a powerful tool for data analysis. By analyzing customer churn, I demonstrated my ability to clean data, uncover insights, and provide actionable business recommendations—all using **Python**.  
 
